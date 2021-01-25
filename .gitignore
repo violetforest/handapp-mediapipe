@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Bazel directories
+bazel-out
+bazel-bin
+bazel-handapp-mediapipe
+bazel-testlogs
